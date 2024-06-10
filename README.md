@@ -2,7 +2,7 @@
 
 Description
 
-This repository showcases the implementation of a simple image slider created using pure JavaScript. The slider allows users to navigate through a collection of images by clicking left and right arrows or by scrolling up and down. This project demonstrates how to create an interactive and dynamic slider that you can easily customize to fit your needs.
+This project showcases the implementation of a simple image slider created using pure JavaScript. The slider allows users to navigate through a collection of images by clicking left and right arrows or by scrolling up and down. This project demonstrates how to create an interactive and dynamic slider that you can easily customize to fit your needs.
 
 Preview
 
